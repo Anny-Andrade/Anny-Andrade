@@ -1,4 +1,4 @@
-## Hello, my name is Anny Andrade, and I am a Systems Analysis and Development student.
+## Hi, my name is Anny Andrade, and I am a Systems Analysis and Development student.
 
 🌱 Working on the implementation of a management and accounting system for cooperatives and associations in family farming.
 
