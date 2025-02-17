@@ -1,11 +1,10 @@
-## Olá, me chamo Anny Andrade e sou estudante de Análises e Desenvolvimento de Sistemas. 
+## Hello, my name is Anny Andrade, and I am a Systems Analysis and Development student.
 
+🌱 Working on the implementation of a management and accounting system for cooperatives and associations in family farming.
 
-🌱 Atuando na implantação de um sistema de gestão e contabilidade para cooperativas e associações da agricultura familiar.
+💬 I am interested in Databases, Computer Networks, and Information Security.
 
-💬 Tenho interesse em Banco de Dados, Redes de Computadores e Segurança da Informação.
-
-⚡ Atualmente, estou iniciando meus estudos em Lógica de Programação, HTML, CSS, JavaScript, MySQL e SQL Server.
+⚡ Currently, I am beginning my studies in Programming Logic, HTML, CSS, JavaScript, MySQL, and SQL Server.
 
 📧 Linkedln: https://www.linkedin.com/in/anny-andrade-528648234/
  
